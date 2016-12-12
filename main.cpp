@@ -31,7 +31,5 @@ int main(int argc, char *argv[])
 
     cout << "* Call method func() for object child" << endl;
     child.func();
-
-cout<<" ";
     return 0;
 }
